@@ -1,6 +1,7 @@
 BANKIST APP
 
 BANKIST APP is a JavaScript-based banking application that allows users to perform various banking operations such as logging in, transferring money, viewing account details, and more. It provides a user-friendly interface and implements common banking functionalities.
+
 Features
 
     User authentication: Users can log in to their accounts using their usernames and PINs.
